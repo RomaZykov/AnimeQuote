@@ -20,7 +20,7 @@ class QuoteTextView : MaterialTextView, ShowQuote {
     }
 
     override fun showPrimaryColor() {
-        setTextColor(Color.WHITE)
+        setTextColor(Color.BLACK)
     }
 
     override fun showErrorColor() {

@@ -4,7 +4,7 @@ import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
-import ru.easycode.data.RepositoryImpl
+import ru.easycode.mock.RepositoryImpl
 import ru.easycode.domain.LoadQuoteResult
 import ru.easycode.domain.Repository
 import ru.easycode.presentation.QuoteUiMapper

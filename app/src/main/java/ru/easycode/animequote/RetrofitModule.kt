@@ -6,7 +6,7 @@ import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import ru.easycode.data.AnimeQuoteService
+import ru.easycode.mock.AnimeQuoteService
 
 @Module
 @InstallIn(SingletonComponent::class)
