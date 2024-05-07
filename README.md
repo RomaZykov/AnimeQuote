@@ -10,3 +10,6 @@ https://youtu.be/SpEKFKa-byM
 
 3. map domain to ui
 https://youtu.be/HP4lXrhp-ug
+
+4. UiTest Espresso mock module
+https://youtu.be/X5qRHP6eaP4
